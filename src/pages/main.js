@@ -10,16 +10,12 @@ import { Transform } from "react-animation-components";
 import posed from "react-pose";
 import "../index.css";
 
-
-
-
 let randomArray;
 
 function random() {
     let randomState={
         friends
     };
-
         randomArray=[];
         for (let i = 0; i < 12; i++) {
         const item =  Math.floor((Math.random() * 12));
@@ -46,8 +42,6 @@ const ShakePose = posed.div({
       }
     }
   });
-// const Bounce = styled.div`animation: 2s ${keyframes`${bounce}`} infinite`;
-
 
     class Main extends Component {
         // Setting this.state.friends to the friends json array
@@ -76,7 +70,6 @@ const ShakePose = posed.div({
     handleClick = id => {
             // We always use the setState method to update a component's state
             
-            //   const message = beenWorkingAllDay ? "I'm feeling really tired" : "I'm wide awake!";
             if (this.selectedArray.indexOf(id)===-1) {
                 this.selectedArray.push(id);
                 let max=this.state.score+1;
@@ -101,23 +94,7 @@ const ShakePose = posed.div({
           // Set this.state.friends equal to the new friends array
           this.setState({ friends });
         };
-
-        // handleAnimation = () => {
-        //     // A loop is needed for continuous animation
-        //     Animated.loop(
-        //       // Animation consists of a sequence of steps
-        //       Animated.sequence([
-        //         // start rotation in one direction (only half the time is needed)
-        //         Animated.timing(this.animatedValue, {toValue: 1.0, duration: 150, easing: Easing.linear, useNativeDriver: true}),
-        //         // rotate in other direction, to minimum value (= twice the duration of above)
-        //         Animated.timing(this.animatedValue, {toValue: -1.0, duration: 300, easing: Easing.linear, useNativeDriver: true}),
-        //         // return to begin position
-        //         Animated.timing(this.animatedValue, {toValue: 0.0, duration: 150, easing: Easing.linear, useNativeDriver: true})
-        //       ])
-        //     ).start(); 
-        //   }
-
-
+        
         render(){            
     return (  
         <div>
