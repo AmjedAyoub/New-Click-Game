@@ -1,0 +1,19 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+#navbar{
+  background-color: purple;
+  color: floralwhite;
+}
+
+.center{
+  justify-content: center;
+  text-align: center;    
+  flex: auto;
+  margin-left: 8%;
+}
+
+.right{
+  float: right;
+}
