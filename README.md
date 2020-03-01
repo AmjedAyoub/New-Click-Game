@@ -12,22 +12,22 @@ Git clone the repository to your local machine:
 
 HTTPS:
 ```
-https://github.com/AmjedAyoub/Clicky-Game.git
+https://github.com/AmjedAyoub/New-Click-Game.git
 ```
 SSH:
 ```
-git@github.com:AmjedAyoub/Clicky-Game.git
+git@github.com:AmjedAyoub/New-Click-Game.git
 ```
 Open the cloned repository in your visual studio.
 
 You will then be able to start the app locally by running:
 
 ```
-nom install
+npm install
 ```
 
 ```
-nom start
+npm start
 ```
 
 ## Screenshots
@@ -39,7 +39,7 @@ nom start
 * React.js
 
 ## Links
-This program is deployed on [GitHub Pages](https://amjedayoub.github.io/Clicky-Game/).\
+This program is deployed on [GitHub Pages](https://amjedayoub.github.io/New-Clicky-Game/).\
 This program is published on [GitHub](https://github.com/AmjedAyoub/Clicky-Game).
 
 ## Authors
