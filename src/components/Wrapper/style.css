@@ -1,6 +1,5 @@
 .wrapper {
-    background: #ECEFF1;
-   
+    background: #ECEFF1;   
     display: -ms-flexbox;
     display: flex;
     min-height: 80%;
@@ -15,11 +14,11 @@
   }
   
   @media (min-width: 1100px){
-  .wrapper {
-      /* padding-left: 100px;
-      padding-right: 100px; */
-      padding-top: 10px;
-      padding-bottom: 10px;
-      /* width: 1100px; */
-  }
+    .wrapper {
+        /* padding-left: 100px;
+        padding-right: 100px; */
+        padding-top: 10px;
+        padding-bottom: 10px;
+        /* width: 1100px; */
+    }
   }
