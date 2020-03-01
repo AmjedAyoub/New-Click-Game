@@ -4,18 +4,14 @@ import Main from "./pages/main";
 // import Title from "./components/Title";
 // import friends from "./friends.json";
 
-
   // Map over this.state.friends and render a FriendCard component for each friend object
   function App() {
-    
-  
-    return (
-      
+
+    return (      
     <Router>       
       <Route exact path="/" component={Main} />
       </Router>
     );
   }
-
 
 export default App;
