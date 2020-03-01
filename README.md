@@ -40,8 +40,8 @@ npm start
 
 ## Links
 This program is deployed on [Heroku](https://new-click-game.herokuapp.com/).\
-This program is published on [GitHub](https://github.com/AmjedAyoub/New-Clicky-Game).
+This program is published on [GitHub](https://github.com/AmjedAyoub/New-Click-Game).
 
 ## Authors
-See contribution history [here](https://github.com/AmjedAyoub/New-Clicky-Game/graphs/contributors).
+See contribution history [here](https://github.com/AmjedAyoub/New-Click-Game/graphs/contributors).
 
