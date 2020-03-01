@@ -39,7 +39,7 @@ npm start
 * React.js
 
 ## Links
-This program is deployed on [GitHub Pages](https://amjedayoub.github.io/New-Clicky-Game/).\
+This program is deployed on [Heroku](https://amjedayoub.github.io/New-Clicky-Game/).\
 This program is published on [GitHub](https://github.com/AmjedAyoub/New-Clicky-Game).
 
 ## Authors
