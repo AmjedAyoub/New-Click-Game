@@ -43,5 +43,5 @@ This program is deployed on [GitHub Pages](https://amjedayoub.github.io/New-Clic
 This program is published on [GitHub](https://github.com/AmjedAyoub/New-Clicky-Game).
 
 ## Authors
-See contribution history [here](https://github.com/AmjedAyoub/Clicky-Game/graphs/contributors).
+See contribution history [here](https://github.com/AmjedAyoub/New-Clicky-Game/graphs/contributors).
 
